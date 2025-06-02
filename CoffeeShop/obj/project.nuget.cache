@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ksy3Cult8o=",
+  "dgSpecHash": "v+BhfvLlTow=",
   "success": true,
-  "projectFilePath": "D:\\huy\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+  "projectFilePath": "C:\\Users\\Maxsys\\OneDrive - Yersin University\\Desktop\\New folder\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxsys\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Maxsys\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
